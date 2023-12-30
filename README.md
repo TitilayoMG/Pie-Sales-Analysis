@@ -4,7 +4,7 @@ This is an analysis on pies sold within 3 years. This organization sells pie and
 ![](pastry-buffet.jpg)
 
 ## Introduction
-This dashboard presents the analysis of pies sold within 3 years. This organization make pies in 7 different flavor and it's sold in slice or whole. The sales takes two form. It is either sold in store or through pre-order purchase. This analysis is done on Power BI.
+This dashboard is analyzed on Power BI and it presents the analysis of pies sold within 3 years. This organization make pies in 7 different flavor and it's sold in slice or whole. The sales takes two form. It is either sold in store or through pre-order purchase. 
 
 ## Problem Statement
 The following questions are the recommended analysis
@@ -27,11 +27,11 @@ The following are skills and concepts demonstrated when working on this project
 * Data visualization
 
 ## Data Transformation
-Changed all fields to the appropriate data types
-Created new columns to calculate sales and profit as the data did not provide this information. The sales column was calculated using 20% of cost price
+Changed all fields to the appropriate data types.
+Created new columns to calculate sales and profit as the data did not provide this information. This sales column was calculated using 20% of cost price
 
 * Creating Sales Column
-* ![](PieSales.PNG)
+![](PieSales.PNG)
 
 ## Data Analysis
 Created DAX functions for aggregation and simple calculations
