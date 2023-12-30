@@ -4,7 +4,7 @@ This is an analysis on pies sold within 3 years. This organization sells pie and
 ![](pastry-buffet.jpg)
 
 ## Introduction
-This dashboard presents the analysis of pies sold within 3 years. This organization sells pie and makes it in 7 different pie flavor, sold in slice or whole. The sales takes two form. It is either sold in store or through pre-order purchase. This analysis is done on Power BI.
+This dashboard presents the analysis of pies sold within 3 years. This organization make pies in 7 different flavor and it's sold in slice or whole. The sales takes two form. It is either sold in store or through pre-order purchase. This analysis is done on Power BI.
 
 ## Problem Statement
 The following questions are the recommended analysis
@@ -43,4 +43,16 @@ Created DAX functions for aggregation and simple calculations
 This dashboard addressed the recommended analysis, generated lots of insights and highlights periods to increase sales
 
 * Dashboard
-* ![](PieDashboard.PNG)
+![](PieDashboard.PNG)
+
+## Recommendation
+Sundays and Mondays are the worst sales days so, create family-sized pie packs, offer delivery services and promote these packs as a way to spend more quality time together without the stress of cooking on Sundays will automatically boost sales on Sundays.
+
+Partner with local businesses to offer lunch specials or catering options and provide discounted rates for office orders, encouraging professionals to choose pies for their Monday lunches.
+
+Offer special deals on bulk purchases or frozen pies that can be easily reheated throughout the week. This will increase the sales by attracting busy individuals who are looking to prepare meals for the week.
+
+Offer discounts or promotions during the morning hours to attract customers looking for breakfast or early lunch options. This can help set a positive tone for the rest of the day.
+
+## Thank you for reading.
+I am open to data roles. Looking forward to meeting you!
