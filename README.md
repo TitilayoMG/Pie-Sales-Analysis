@@ -16,7 +16,7 @@ The following questions are the recommended analysis
 * What days of the week had the highest pie sales?
 
 ## Data Source
-The data used for this analysis was provided by Dahel Techies and Consultants during my internship program
+The data used for this analysis was provided by Dahel Techies and Consultants during internship program
 
 ## Skills and Concepts Demonstrated
 The following are skills and concepts demonstrated when working on this project
@@ -55,4 +55,5 @@ Offer special deals on bulk purchases or frozen pies that can be easily reheated
 Offer discounts or promotions during the morning hours to attract customers looking for breakfast or early lunch options. This can help set a positive tone for the rest of the day.
 
 ## Thank you for reading.
-I am open to data roles. Looking forward to meeting you!
+I am open to data roles. 
+Looking forward to meeting you!
